@@ -1,0 +1,6 @@
+Stock Ticker,Quantity (Shares),Unit Price (USD),Subtotal (USD)
+AAPL,10,180.50,1805.00
+TSLA,5,250.00,1250.00
+MSFT,2,425.20,850.40
+
+TOTAL INVESTMENT,,,3905.40
